@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DrawerLayout</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="more">More</string>
+</resources>
